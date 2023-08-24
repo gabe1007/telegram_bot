@@ -1,6 +1,13 @@
-# Crie um Telegram Chatbot💬 usando ChatGPT, Flask, and EC2.
+# Create Telegram Chatbot💬 using ChatGPT, Flask, and EC2
 
-## Resumo
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+## [Watch the Tutorial for this Project](https://youtu.be/Fej2wb4YHes)
+
+![YouTube Thumbnail](https://github.com/Spidy20/Telegram_Chatgpt_Bot/blob/master/yt_thumb.jpg)
+
+## Overview
 
 This project demonstrates how to create a Telegram chatbot using ChatGPT, Flask, and EC2. The following technologies and services are used:
 
