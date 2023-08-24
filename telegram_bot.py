@@ -5,11 +5,6 @@ import requests
 import openai
 import os
 
-#webhook
-#https://api.telegram.org/bot6588304538:AAGkrEBX0T6X3mmQYV240nzaMDEGPF7P6jQ/setWebhook?url=https://aa39-18-216-94-91.ngrok-free.app/
- 
-# Give OpenAI Key
-#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
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 app = Flask(__name__)
